@@ -128,7 +128,9 @@ Module 'HV' power on failed.
 Intel VT-x might be disabled if it has not
 been enabled in BIOS/firmware.
 ---->CMD
+
     systeminfo
+    
 ---its shows
 
 Another possible Windows message:
@@ -156,8 +158,11 @@ Method 2: Disable Windows Hyper-V
 
 
 ---> Restart Windows.
+
 Method 3: Disable Windows virtualization features
+
 --->Press Win + R, enter:
+
       optionalfeatures
 
 
