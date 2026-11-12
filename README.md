@@ -193,3 +193,26 @@ For your nested ESXi setup, the most important setting is Virtualize Intel VT-x/
 
 You have already successfully installed ESXi and accessed its web interface. Your next task is to ensure nested virtualization is enabled and allocate sufficient RAM.
 
+
+
+===========================================================================================================================
+
+IF THE NETWORK IS (BRIDGE NETWORK)
+
+STEP -1
+ GO TO EDIT IN VMWARE ,CLICK VM NETWORK EDIT ,SELECT DOWN ADVANCE TO CHANEGE SETTINGS
+
+  ![](images/vm31.png)
+
+STEP-2
+GO TO VMNET0, AND SELECT NETWORK DEVICES OF YOUR OWN DEVICES
+
+ ![](images/vm32.png)
+
+
+ ----------------------------------------------------------------------------------------------------------------------------
+
+                                              --THANK YOU--   
+
+  ![](images/katherine-langford-portrait-beautiful-actress-3840x2160-1177.jpg)
+
